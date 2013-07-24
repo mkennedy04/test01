@@ -7,3 +7,8 @@ Description: a test repository
 Introduction:  
 ======
 This repository was originally started as a test repository to learn more about git and github.  
+
+Miscellaneous
+==  
+The syntax for themark down can be found here  
+http://daringfireball.net/projects/markdown/syntax
